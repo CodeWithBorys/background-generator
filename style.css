@@ -1,0 +1,46 @@
+body {
+  text-align: center;
+  background: linear-gradient(to right, red, yellow);
+  text-transform: uppercase;
+  letter-spacing: 3px;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+h1 {
+  font-size: 4rem;
+}
+
+h2 {
+  letter-spacing: 7px;
+}
+
+h3 {
+  text-transform: lowercase;
+  letter-spacing: 1px;
+  font-weight: 100;
+}
+
+button {
+  margin-top: 20px;
+  border: none;
+  padding: 15px 25px;
+  cursor: pointer;
+  outline: none;
+  text-transform: unset;
+  border-radius: 3px;
+  box-shadow: 0 2px 2px 0 #4a4a4a;
+  color: #3F51B5;
+  background: hsl(54, 100%, 62%);
+  font-weight: 900;
+  transition: all .2s;
+}
+
+button:hover {
+  color: #ffeb3b;
+  background: #3F51B5;
+}
+
+button:active {
+  letter-spacing: -1px;
+  background: linear-gradient(to right, #3F51B5, #7780af, #3F51B5);
+}

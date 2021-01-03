@@ -1,0 +1,24 @@
+{
+  "name": "background-generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CodeWithBorys/background-generator.git"
+  },
+  "keywords": [
+    "background",
+    "generator",
+    "random"
+  ],
+  "author": "Borys Leshchuk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CodeWithBorys/background-generator/issues"
+  },
+  "homepage": "https://github.com/CodeWithBorys/background-generator#readme"
+}
